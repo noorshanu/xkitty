@@ -19,14 +19,14 @@ function Hero() {
 
         <div className=" flex justify-center gap-5 items-center">
           <a
-            href="http://twitter.com/lazy_catt9"
+            href="https://twitter.com/XKitty_9"
             className=" text-xl text-white bg-[#525252] hover:scale-125 hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]"
           >
             <BsTwitterX />
           </a>
 
           <a
-            href="https://t.me/XKITTYso"
+            href="https://t.me/xkittyso"
             target="_blank"
             className=" text-xl text-white hover:scale-125 bg-[#525252] hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]"
           >
@@ -34,7 +34,7 @@ function Hero() {
           </a>
 
           <a
-            href="https://www.dextools.io/app/en/solana/pair-explorer/85xbowf3qLXyKEojFhbBrr89S5FRubVHNNxcAUbRs4nQ?t=1712043510112"
+            href="#"
             target="_blank"
             className=" bg-[#525252] rounded-full text-xl font-semibold p-1 border-2 hover:scale-125 "
           >

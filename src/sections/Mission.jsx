@@ -19,14 +19,14 @@ function Mission() {
           
         <div className=" flex justify-center gap-5 items-center mt-4">
           <a
-            href="http://twitter.com/lazy_catt9"
+            href="https://twitter.com/XKitty_9"
             className=" text-xl text-white bg-[#000000] hover:scale-125 hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]"
           >
             <BsTwitterX />
           </a>
 
           <a
-            href="https://t.me/lazycatso"
+            href="https://t.me/xkittyso"
             target="_blank"
             className=" text-xl text-white hover:scale-125 bg-[#000000] hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]"
           >
@@ -34,7 +34,7 @@ function Mission() {
           </a>
 
           <a
-            href="https://www.dextools.io/app/en/solana/pair-explorer/85xbowf3qLXyKEojFhbBrr89S5FRubVHNNxcAUbRs4nQ?t=1712043510112"
+            href="#"
             target="_blank"
             className=" bg-[#000000] rounded-full text-xl font-semibold p-1 border-2 hover:scale-125 "
           >
