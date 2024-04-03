@@ -34,7 +34,7 @@ function Mission() {
           </a>
 
           <a
-            href="#"
+            href="https://www.dextools.io/app/en/solana/pair-explorer/5siPMw354SRrvzfUkRqhcZAXupZRb774LFy7wyWjvnMf?t=1712128501020"
             target="_blank"
             className=" bg-[#000000] rounded-full text-xl font-semibold p-1 border-2 hover:scale-125 "
           >
