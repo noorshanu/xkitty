@@ -10,7 +10,7 @@ function Mission() {
         </div>
 
         <div className=" border border-[#0b5a66]  py-8 px-4 rounded-2xl shadow-xl max-w-2xl ">
-          <h1 className=" font-kid font-bold text-3xl sm:text-5xl my-3 text-center">Join LazyCat</h1>
+          <h1 className=" font-kid font-bold text-3xl sm:text-5xl my-3 text-center">Join XKITTY</h1>
 
           <p className=" text-lg sm:text-xl text-center "> 
           XKITTY stands as the epitome of feline internet sovereignty, a coin that distills the essence of viral cat memes into a singular, irresistible crypto entity. It's a meld of sophistication, sassiness, and the distinctive cat attitude, encapsulating the charm of cats in every transaction.
