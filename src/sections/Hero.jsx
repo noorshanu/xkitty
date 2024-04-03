@@ -6,7 +6,7 @@ function Hero() {
     <section className=" pt-4  pb-[1rem]">
       <div className="container-wrapper flex justify-center flex-col ">
         <h1 className=" font-kid text-[80px] sm:text-[160px] font-bold text-[#525252] text-center mt-[5rem] sm:mt-[3rem] uppercase">
-         XKitty
+       LeoCat
         </h1>
 
         <div className=" flex justify-center mx-auto -mt-[4rem]">
@@ -19,14 +19,14 @@ function Hero() {
 
         <div className=" flex justify-center gap-5 items-center">
           <a
-            href="https://twitter.com/XKitty_9"
+            href="https://twitter.com/Leo_cat9"
             className=" text-xl text-white bg-[#525252] hover:scale-125 hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]"
           >
             <BsTwitterX />
           </a>
 
           <a
-            href="https://t.me/xkittyso"
+            href="https://t.me/leocatsol"
             target="_blank"
             className=" text-xl text-white hover:scale-125 bg-[#525252] hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]"
           >
