@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Transition } from "@headlessui/react";
-import { BsTwitterX } from "react-icons/bs";
-import {  FaTelegram } from "react-icons/fa6";
+import { BsTwitterX, BsInstagram, BsFacebook } from "react-icons/bs";
+import { FaLinkedinIn, FaTelegram } from "react-icons/fa6";
 
 function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
@@ -28,7 +28,7 @@ function Navbar() {
 
         {/* Wallet Connect button */}
         <div className="md:flex items-center">
-            <a href="#" className="bg-[#525252] rounded-full text-white px-4 py-2 text-xl font-kid  font-semibold ">Buy Now</a>
+            <a href="https://www.dextools.io/app/en/solana/pair-explorer/5siPMw354SRrvzfUkRqhcZAXupZRb774LFy7wyWjvnMf?t=1712128501020" className="bg-[#525252] rounded-full text-white px-4 py-2 text-xl font-kid  font-semibold ">Buy Now</a>
         </div>
 
         {/* Hamburger menu for mobile */}
