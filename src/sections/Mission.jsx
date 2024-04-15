@@ -18,25 +18,25 @@ function Mission() {
 
           
         <div className=" flex justify-center gap-5 items-center mt-4">
-          <a
+        <a
             href="https://twitter.com/XKitty_9"
-            className=" text-xl text-white bg-[#000000] hover:scale-125 hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]"
+            className=" text-xl text-white bg-[#525252] hover:scale-125 hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]"
           >
             <BsTwitterX />
           </a>
 
           <a
-            href="https://t.me/xkittyso"
+            href="https://t.me/xkittysol"
             target="_blank"
-            className=" text-xl text-white hover:scale-125 bg-[#000000] hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]"
+            className=" text-xl text-white hover:scale-125 bg-[#525252] hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]"
           >
             <FaTelegram />
           </a>
 
           <a
-            href="https://www.dextools.io/app/en/solana/pair-explorer/5siPMw354SRrvzfUkRqhcZAXupZRb774LFy7wyWjvnMf?t=1712128501020"
+            href="#"
             target="_blank"
-            className=" bg-[#000000] rounded-full text-xl font-semibold p-1 border-2 hover:scale-125 "
+            className=" bg-[#525252] rounded-full text-xl font-semibold p-1 border-2 hover:scale-125 "
           >
             <img src="images/dext.png" alt="" className=" h-[29px] w-auto" />
           </a>
