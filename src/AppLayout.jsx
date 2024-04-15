@@ -65,11 +65,11 @@ function AppLayout() {
         
         </div> */}
         <a
-          href="https://solscan.io/token/AfcegC81uUzfYtfKeosV2YfnopwbYp5axdDtCFmDzuBa"
+          href="https://solscan.io"
           target="_blank"
           className="bg-[#525252]  text-white font-bold py-2 px-2 sm:px-16 border-2  sm:text-2xl text-xs rounded-full   flex justify-center w-[360px] sm:w-[680px] mx-auto"
         >
-          AfcegC81uUzfYtfKeosV2YfnopwbYp5axdDtCFmDzuBa
+          dsfsdfsdfsdfsdfdg fghfhjgfjhgkhk
         </a>
       </main>
 
