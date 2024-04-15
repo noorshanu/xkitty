@@ -6,7 +6,7 @@ function Hero() {
     <section className=" pt-4  pb-[1rem]">
       <div className="container-wrapper flex justify-center flex-col ">
         <h1 className=" font-kid text-[80px] sm:text-[160px] font-bold text-[#fd6b02] text-center mt-[5rem] sm:mt-[3rem] uppercase">
-       LeoCat
+      XKitty
         </h1>
 
         <div className=" flex justify-center mx-auto -mt-[4rem]">
