@@ -28,7 +28,7 @@ function Navbar() {
 
         {/* Wallet Connect button */}
         <div className="md:flex items-center">
-            <a href="https://www.dextools.io/app/en/solana/pair-explorer/5siPMw354SRrvzfUkRqhcZAXupZRb774LFy7wyWjvnMf?t=1712128501020" className="bg-[#525252] rounded-full text-white px-4 py-2 text-xl font-kid  font-semibold ">Buy Now</a>
+            <a href="#" className="bg-[#525252] rounded-full text-white px-4 py-2 text-xl font-kid  font-semibold ">Buy Now</a>
         </div>
 
         {/* Hamburger menu for mobile */}
@@ -77,7 +77,7 @@ function Navbar() {
             
             <div className=" flex items-center gap-4 text-white mb-6 ml-5">
             <a
-                  href="https://twitter.com/Mew_Catt_"
+                  href="https://twitter.com/XKitty_9"
                   className=" text-xl text-black bg-white hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]"
                 >
                   <BsTwitterX />
@@ -86,7 +86,7 @@ function Navbar() {
            
 
                 <a
-                  href="https://t.me/meowcatoff" target="_blank"
+                  href="https://t.me/xkittysol" target="_blank"
                   className=" text-xl text-black bg-white hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]"
                 >
                   <FaTelegram />
